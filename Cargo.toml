@@ -1,0 +1,8 @@
+[package]
+name = "oxide"
+version = "0.1.0"
+authors = ["Allyson Bowles <akatch@github>"]
+
+[dependencies]
+dicom-core = { git = "https://github.com/Enet4/dicom-rs" }
+chrono = "0.4.6"
